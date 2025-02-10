@@ -8,8 +8,8 @@ author_profile: true
 ## **Research Interests:**
 
 ♾️ Partial Differential Equations (PDEs): 
-  -  Mathematical and Numerical Analysis for System of Hyperbolic Conservation Laws, and
-  -  Modelling Continuum Traffic Flow Networks using Systems of Hyperbolic Conservation Laws.
+  -  Systems of Hyperbolic Conservation Laws - Modelling, Mathematical Analysis, and Numerical Analysis.
+  -  PDEs on Graphs: Modelling and Simulating Continuum Traffic Flow Networks.
 
 📊 Statistics and Machine Learning.
 
