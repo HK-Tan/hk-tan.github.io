@@ -26,7 +26,7 @@ redirect_from:
 
 ## **Research Interests:**
 
-♾️ Partial Differential Equations (PDEs): =
+♾️ Partial Differential Equations (PDEs):
   -  Systems of Hyperbolic Conservation Laws - Modelling, Mathematical Analysis, and Numerical Analysis.
   -  PDEs on Graphs: Modelling and Simulating Continuum Traffic Flow Networks.
 
