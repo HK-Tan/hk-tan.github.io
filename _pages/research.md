@@ -9,7 +9,7 @@ author_profile: true
 
 ♾️ Partial Differential Equations (PDEs): 
   -  Systems of Hyperbolic Conservation Laws - Modelling, Mathematical Analysis, and Numerical Analysis.
-  -  PDEs on Graphs: Modelling and Simulating Continuum Traffic Flow Networks.
+  -  PDEs on Graphs: Modelling, Simulating, and Optimizing Continuum Traffic Flow Networks.
 
 📊 Statistics and Machine Learning.
 
