@@ -15,6 +15,11 @@ author_profile: true
 
 ## **Publications:**
 
+📜 **General Structural Stability for 2 x 2 Systems of Hyperbolic Conservation Laws** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Andrea Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [arXiv:2502.08998 (2025).](https://arxiv.org/pdf/2502.08998) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tags: Analysis of PDEs, Differential Topology, Numerical Analysis, Fluid Dynamics.
+
 📜 **A Proof of Weak Cosmic Censorship Conjecture for the Spherically Symmetric Einstein-Maxwell-Charged Scalar Field System** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Xinliang An](https://scholar.google.com/citations?hl=en&user=RNWt0QUAAAAJ). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [arXiv:2402.16250 (2024).](https://arxiv.org/abs/2402.16250) <br>
