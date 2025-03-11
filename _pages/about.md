@@ -32,6 +32,8 @@ redirect_from:
 
 📊 Statistics and Machine Learning.
 
+✉️ I am always happy to discuss more on projects/publicatons that I have worked on. If you have any questions with regards to any of my papers, feel free to contact me via my email below!
+
 ## **CV:**
 
 📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Mar25_R.pdf) (Updated Mar 2025.)
@@ -42,6 +44,7 @@ redirect_from:
 
 👨‍🏫 Currently Teaching:
   -  (Winter 25.) Math 182: Algorithms.
+  -  (Spring 25.) N.A. 
   -  Disclaimer: I am NOT the instructor for Math 131B in the Spring 25 quarter. You were probably looking for [this](https://www.math.ucla.edu/people/visiting/tanhui) professor instead!
 
 🧑‍💻 Teaching Experiences:
