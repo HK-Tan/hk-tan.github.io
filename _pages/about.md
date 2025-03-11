@@ -32,7 +32,7 @@ redirect_from:
 
 📊 Statistics and Machine Learning.
 
-✉️ I am always happy to discuss more on projects/publicatons that I have worked on. If you have any questions with regards to any of my papers, feel free to contact me via my email below!
+✉️ I am always happy to discuss more on projects/publicatons that I have worked on. If you have any questions with regards to any of my publications, feel free to contact me via my email below!
 
 ## **CV:**
 
