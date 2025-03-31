@@ -36,7 +36,7 @@ redirect_from:
 
 ## **CV:**
 
-📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Mar25_R.pdf) (Updated Mar 2025.)
+📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Mar25.pdf) (Updated Mar 2025.)
 
 ✉️ I am currently looking for an internship (and/or eventually for a job) for 2025/2026. Feel free to contact me via my email below!
 
