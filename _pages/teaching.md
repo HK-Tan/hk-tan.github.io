@@ -19,8 +19,8 @@ author_profile: true
 ### Teaching Assistant at UCLA.
 
 📖 (Winter 25.) Teaching Assistant for Math 182 Algorithms. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: X/9.0, Helpfulness Outside of the Classroom: X/9.0,  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 Teaching Evaluation X, 📔 [Discussion Supplements](https://maxtanhk.com/files/Discussion_Supplements/Math_182_Discussion_Supplements.pdf). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: TBC/9.0, Helpfulness Outside of the Classroom: TBC/9.0,  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 Teaching Evaluation TBC, 📔 [Discussion Supplements](https://maxtanhk.com/files/Discussion_Supplements/Math_182_Discussion_Supplements.pdf). <br>
 
 📖 (Spring 24.) Teaching Assistant for Math 174E Mathematics of Finance for Mathematics/Economics Students. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: 8.06/9.0, Helpfulness Outside of the Classroom: 8.17/9.0,  <br>
