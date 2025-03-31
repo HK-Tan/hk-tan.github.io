@@ -11,8 +11,8 @@ author_profile: true
 
 ## 🧑‍💻 **Teaching Experiences:** 
 
-📄 To access a consolidated folder containing all my teaching evaluations, click [**here**](https://github.com/HK-Tan/hk-tan.github.io/tree/main/files/Teaching_Evaluations). <br>
-📔 To access a consolidated folder containing all my discussion supplements, click [**here**](https://github.com/HK-Tan/hk-tan.github.io/tree/main/files/Discussion_Supplements). <br> 
+📄 To access a consolidated folder containing all my teaching evaluations, click [**here**](https://github.com/HK-Tan/hk-tan.github.io/tree/master/files/Teaching_Evaluations). <br>
+📔 To access a consolidated folder containing all my discussion supplements, click [**here**](https://github.com/HK-Tan/hk-tan.github.io/tree/master/files/Discussion_Supplements). <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please be aware that there may be numerous typos in these supplements, so use them with extreme caution. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you found any typos/errors in these supplements, feel free to email me accordingly. Thanks! 
 
