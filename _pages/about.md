@@ -38,7 +38,11 @@ redirect_from:
 
 📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Apr25.pdf) (Updated Apr 2025.)
 
-✉️ I am currently looking for an internship (and/or eventually for a job) for 2025/2026. Feel free to contact me via my email below!
+✉️ I am currently looking:
+  - Summer internship for 2026, and/or
+  - Full Time Job for Jun/Dec 2026.  <br>
+  
+Feel free to contact me via my email below!
 
 ## **Teaching:**
 
