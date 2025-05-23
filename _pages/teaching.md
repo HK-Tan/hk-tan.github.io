@@ -7,7 +7,7 @@ author_profile: true
 
 ## 👨‍🏫 **Currently Teaching:**
 
-📖 (Spring 25.) N.A.
+📖 (Summer 25.) N.A.
 
 ## 🧑‍💻 **Teaching Experiences:** 
 
