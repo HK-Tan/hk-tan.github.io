@@ -42,7 +42,7 @@ redirect_from:
      alt="Amazon"
      width="20"
      height="20"
-     loading="lazy"/>  I’m excited to share that I’ll be starting as a Data Scientist Intern at Amazon this summer (2025)!
+     loading="lazy"/>  I’m excited to share that I’ll be working as a Data Scientist Intern at Amazon this summer (2025)!
 
 ✉️ I am currently looking:
   - Summer internship for 2026, and/or
