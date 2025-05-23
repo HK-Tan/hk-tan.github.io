@@ -36,7 +36,7 @@ redirect_from:
 
 ## **CV:**
 
-📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Apr25.pdf) (Updated Apr 2025.)
+📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_May25.pdf) (Updated May 2025.)
 
 <img src="/images/amazon-icon.svg"
      alt="Amazon"
