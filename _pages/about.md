@@ -38,6 +38,12 @@ redirect_from:
 
 📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Apr25.pdf) (Updated Apr 2025.)
 
+<img src="/images/amazon-icon.svg"
+     alt="Amazon"
+     width="20"
+     height="20"
+     loading="lazy"/>  I'm excited to share that I will be starting a Data Scientist Intern at Amazon this summer (2025)!
+
 ✉️ I am currently looking:
   - Summer internship for 2026, and/or
   - Full Time Job starting Jun/Dec 2026.  <br>
@@ -47,8 +53,7 @@ Feel free to contact me via my email below!
 ## **Teaching:**
 
 👨‍🏫 Currently Teaching:
-  -  (Spring 25.) N.A. 
-  -  Disclaimer: I am NOT the instructor for Math 131B in the Spring 25 quarter. You were probably looking for [this](https://www.math.ucla.edu/people/visiting/tanhui) professor instead!
+  -  (Summer 25.) N.A. 
 
 🧑‍💻 Teaching Experiences:
   -  You can access them [**here.**](teaching/)
