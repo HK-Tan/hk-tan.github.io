@@ -31,7 +31,7 @@ redirect_from:
   -  PDEs on Graphs: Modelling, Simulating, and Optimizing Continuum Traffic Flow Networks.
 
 📊 Statistics and Machine Learning.
-  -  I'm recently interested in applying machine learning/AI methods for Causal Inference!
+  -  Causal Machine Learning & Statistics.
 
 ✉️ I am always happy to discuss more on projects/publicatons that I have worked on. If you have any questions with regards to any of my publications, feel free to contact me via my email below!
 
