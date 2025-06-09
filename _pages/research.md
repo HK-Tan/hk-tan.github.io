@@ -12,6 +12,7 @@ author_profile: true
   -  PDEs on Graphs: Modelling, Simulating, and Optimizing Continuum Traffic Flow Networks.
 
 📊 Statistics and Machine Learning.
+  - Causal Machine Learning & Statistics.
 
 ## **Publications:**
 
