@@ -34,7 +34,7 @@ redirect_from:
    - Genericity, Transversality, and Applications.
 
 📊 Statistics and Machine Learning.
-  -  Causal Machine Learning & Statistics.
+  -  Causal Machine Learning, Time-Series Models, and Mathematical Statistics.
 
 ♾️ Partial Differential Equations (PDEs):
   -  Systems of Hyperbolic Conservation Laws: Mathematical & Numerical Analysis.
