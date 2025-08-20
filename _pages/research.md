@@ -7,12 +7,19 @@ author_profile: true
 
 ## **Research Interests:**
 
-♾️ Partial Differential Equations (PDEs): 
-  -  Systems of Hyperbolic Conservation Laws - Modelling, Mathematical Analysis, and Numerical Analysis.
-  -  PDEs on Graphs: Modelling, Simulating, and Optimizing Continuum Traffic Flow Networks.
+<img src="/images/transverse.png"
+     alt="Amazon"
+     width="20"
+     height="20"
+     loading="lazy"/> Differential Topology:
+   - Genericity, Transversality, and Applications.
 
 📊 Statistics and Machine Learning.
-  - Causal Machine Learning & Statistics.
+  -  Causal Machine Learning, Time-Series Models, and Mathematical Statistics.
+
+♾️ Partial Differential Equations (PDEs):
+  -  Systems of Hyperbolic Conservation Laws: Mathematical & Numerical Analysis.
+  -  PDEs on Graphs: Modelling, Simulating, and Optimizing Continuum Traffic Flow Networks.
 
 ## **Publications:**
 
