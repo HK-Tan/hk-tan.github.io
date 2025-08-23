@@ -27,9 +27,9 @@ redirect_from:
 ## **Research Interests:**
 
 <img src="/images/transverse.png"
-     alt="Amazon"
-     width="20"
-     height="20"
+     alt="Transverse"
+     width="30"
+     height="30"
      loading="lazy"/> Differential Topology:
    - Genericity, Transversality, and Applications.
 
