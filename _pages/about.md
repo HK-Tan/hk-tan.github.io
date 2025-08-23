@@ -33,7 +33,7 @@ redirect_from:
      loading="lazy"/> Differential Topology:
    - Genericity, Transversality, and Applications.
 
-📊 Statistics and Machine Learning.
+📊 Statistics and Machine Learning:
   -  Causal Machine Learning, Time-Series Models, and Mathematical Statistics.
 
 ♾️ Partial Differential Equations (PDEs):
