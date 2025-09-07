@@ -17,7 +17,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍵 "Drinks/US" Name: Max. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍👨‍👦‍👦 Pronouns: He/Him/His. <br>
     
-👨‍🎓 I'm a 4th year Ph.D. student in Mathematics at UCLA, advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/).
+👨‍🎓 I'm a rising 5th year Ph.D. student in Mathematics at UCLA, advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/).
 
 📚 I did my undergraduate studies at the National University of Singapore majoring/minoring in: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗 Primary Major: Applied Mathematics, <br>
