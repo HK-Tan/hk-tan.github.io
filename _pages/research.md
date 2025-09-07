@@ -5,21 +5,22 @@ permalink: /research/
 author_profile: true
 ---
 
-## **Research Interests:**
+## **Research Experiences & Interests:**
+
+📊 Statistics/Machine Learning:
+  -  Causal Machine Learning, Time-Series Models, and Mathematical Statistics.
+  -  LLMs and Multi-agent systems.
 
 <img src="/images/transverse.png"
-     alt="Amazon"
-     width="20"
-     height="20"
+     alt="Transverse"
+     width="30"
+     height="30"
      loading="lazy"/> Differential Topology:
    - Genericity, Transversality, and Applications.
 
-📊 Statistics and Machine Learning.
-  -  Causal Machine Learning, Time-Series Models, and Mathematical Statistics.
-
 ♾️ Partial Differential Equations (PDEs):
+  -  PDEs on Graphs: Modelling, Optimizing, and Simulating Continuum Traffic Flow Networks.
   -  Systems of Hyperbolic Conservation Laws: Mathematical & Numerical Analysis.
-  -  PDEs on Graphs: Modelling, Simulating, and Optimizing Continuum Traffic Flow Networks.
 
 ## **Publications:**
 
