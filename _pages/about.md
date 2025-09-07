@@ -24,7 +24,11 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📕 Secondary Major: Physics, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘 Minor: Statistics.
 
-## **Research Interests:**
+## **Research Experiences & Interests:**
+
+📊 Statistics/Machine Learning:
+  -  Causal Machine Learning, Time-Series Models, and Mathematical Statistics.
+  -  LLMs and Multi-agent systems.
 
 <img src="/images/transverse.png"
      alt="Transverse"
@@ -33,12 +37,9 @@ redirect_from:
      loading="lazy"/> Differential Topology:
    - Genericity, Transversality, and Applications.
 
-📊 Statistics and Machine Learning:
-  -  Causal Machine Learning, Time-Series Models, and Mathematical Statistics.
-
 ♾️ Partial Differential Equations (PDEs):
+  -  PDEs on Graphs: Modelling, Optimizing, and Simulating Continuum Traffic Flow Networks.
   -  Systems of Hyperbolic Conservation Laws: Mathematical & Numerical Analysis.
-  -  PDEs on Graphs: Modelling, Simulating, and Optimizing Continuum Traffic Flow Networks.
 
 ✉️ I am always happy to discuss more on projects/publicatons that I have worked on. If you have any questions with regards to any of my publications, feel free to contact me via my email below!
 
