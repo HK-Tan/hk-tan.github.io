@@ -55,7 +55,7 @@ redirect_from:
 
 ✉️ I am currently looking for:
   - Summer internship for 2026, and/or
-  - Full Time Job starting Jun/Dec 2026.  <br>
+  - Full Time Job starting Dec 2026.  <br>
   
 Feel free to contact me via my email below!
 
