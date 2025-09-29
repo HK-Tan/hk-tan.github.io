@@ -17,7 +17,8 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍵 "Drinks/US" Name: Max. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍👨‍👦‍👦 Pronouns: He/Him/His. <br>
     
-👨‍🎓 I'm a rising 5th year Ph.D. student in Mathematics at UCLA, advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/).
+👨‍🎓 I'm a 5th year Ph.D. student in Mathematics at UCLA, advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). <br>
+💼 I'm currently doing an internship and am away from campus for the Fall quarter.
 
 📚 I did my undergraduate studies at the National University of Singapore majoring/minoring in: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗 Primary Major: Applied Mathematics, <br>
@@ -47,10 +48,16 @@ redirect_from:
 
 📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Sep25.pdf) (Updated Sep 2025.)
 
+<img src="/images/worldquant-img.png"
+     alt="WorldQuant"
+     width="30"
+     height="30"
+     loading="lazy"/>  I’m currently working as a Quantitative Research Intern at WorldQuant.
+
 <img src="/images/amazon-icon.svg"
      alt="Amazon"
-     width="20"
-     height="20"
+     width="28"
+     height="28"
      loading="lazy"/>  I’ve worked as a Data Scientist Intern at Amazon this summer (2025) at Search Data Science and Economics.
 
 ✉️ I am currently looking for:
@@ -62,7 +69,7 @@ Feel free to contact me via my email below!
 ## **Teaching:**
 
 👨‍🏫 Currently Teaching:
-  -  (Summer 25.) N.A. 
+  -  (Fall 25.) N.A. 
 
 🧑‍💻 Teaching Experiences:
   -  You can access them [**here.**](teaching/)
