@@ -44,6 +44,7 @@ redirect_from:
 
 ✉️ I am always happy to discuss more on projects/publicatons that I have worked on. If you have any questions with regards to any of my publications, feel free to contact me via my email below!
 
+
 ## **CV:**
 
 📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Oct25.pdf) (Updated Oct 2025.)
@@ -63,6 +64,10 @@ redirect_from:
 ✉️ I am currently looking for:
   - Summer internship for 2026, and/or
   - Full Time Job starting Dec 2026.  <br>
+
+💼 Potential Roles: 
+  - Research/Applied/Data Scientist/Member of Technical Staff, or 
+  - Quantitative Researcher. <br>
   
 Feel free to contact me via my email below!
 

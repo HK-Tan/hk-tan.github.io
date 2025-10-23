@@ -22,12 +22,29 @@ author_profile: true
   -  PDEs on Graphs: Modelling, Optimizing, and Simulating Continuum Traffic Flow Networks.
   -  Systems of Hyperbolic Conservation Laws: Mathematical & Numerical Analysis.
 
+## **In Progress:**
+📋 **ORACLE-VARX: Double Machine Learning with
+Confounding-Adjusted Causal Lag Detection in Financial
+Time-Series** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (submitted for a conference) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Causal Machine Learning, Time Series Analysis. <br>
+
+📋 **Beyond Statistical Changepoint Detection: LLM Discovery of Semantic Changes in Time-Series Data** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (submitted for a conference) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Mathematical Statistics, Statistical Learning, LLMs, Multi-agent Systems. <br>
+
+📋 **Macroscopic Traffic Flow Network Simulations for Wildfire Evacuation** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Optimization, Game Theory, PDEs on Graphs, Numerical Analysis. <br>
+
+📋 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Analysis of PDEs, Differential Topology, Functional Analysis, Numerical Analysis. <br>
+
 ## **Publications:**
 
 📜 **Generic Structural Stability for 2 x 2 Systems of Hyperbolic Conservation Laws** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Andrea Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [arXiv:2502.08998 (2025).](https://arxiv.org/pdf/2502.08998) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tags: Analysis of PDEs, Differential Topology, Numerical Analysis, Fluid Dynamics. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [arXiv:2502.08998 (2025),](https://arxiv.org/pdf/2502.08998), and accepted to SIAM Journal of Mathematical Analysis.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tags: Analysis of PDEs, Differential Topology, Functional Analysis, Numerical Analysis, Fluid Dynamics. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📋 [Slides](https://maxtanhk.com/files/Slides/Generic_Structural_Stability_Slides.pdf).
 
 📜 **Weak Cosmic Censorship Conjecture for the Spherically Symmetric Einstein-Maxwell-Charged Scalar Field System** <br>
