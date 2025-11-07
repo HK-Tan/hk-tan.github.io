@@ -63,11 +63,11 @@ redirect_from:
 
 ✉️ I am currently looking for:
   - Summer internship for 2026, and/or
-  - Full Time Job starting Dec 2026.  <br>
+  - Full Time Job starting Summer 2026/Dec 2026.  <br>
 
 💼 Potential Roles: 
-  - Research/Applied/Data Scientist/Member of Technical Staff, or 
-  - Quantitative Researcher. <br>
+  - Research/Applied/Data Scientist/Member of Technical Staff, or
+  - Machine Learning Engineer
   
 Feel free to contact me via my email below!
 
