@@ -67,7 +67,7 @@ redirect_from:
 
 💼 Potential Roles: 
   - Research/Applied/Data Scientist/Member of Technical Staff, or
-  - Machine Learning Engineer
+  - Research Engineer/Machine Learning Engineer.
   
 Feel free to contact me via my email below!
 
