@@ -35,6 +35,7 @@ Time-Series** <br>
 
 📋 **Macroscopic Traffic Flow Network Simulations for Wildfire Evacuation** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Optimization, PDEs on Graphs, Numerical Analysis, Mathematical Modelling. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🚦 [GitHub Repo](https://github.com/HK-Tan/Traffic-Simulation). <br>
 
 📋 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Analysis of PDEs, Differential Topology, Functional Analysis, Numerical Analysis. <br>
