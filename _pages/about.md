@@ -47,7 +47,7 @@ redirect_from:
 
 ## **CV:**
 
-📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Nov25.pdf) (Updated Nov 2025.)
+📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Dec25.pdf) (Updated Dec 2025.)
 
 <img src="/images/worldquant-img.png"
      alt="WorldQuant"
@@ -67,7 +67,7 @@ redirect_from:
 
 💼 Potential Roles: 
   - Research/Applied/Data Scientist/Member of Technical Staff, or
-  - Research Engineer/Machine Learning Engineer.
+  - Research/Machine Learning/AI Engineer.
   
 Feel free to contact me via my email below!
 
