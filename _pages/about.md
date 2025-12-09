@@ -61,8 +61,10 @@ redirect_from:
      height="28"
      loading="lazy"/>  I’ve worked as a Data Scientist Intern at Amazon this summer (2025) at Search Data Science and Economics.
 
+I think of myself as a "full stack mathematician" — I take projects end-to-end, from theory and modeling through implementation and simulation to production-scale systems!
+
 ✉️ I am currently looking for:
-  - Summer internship for 2026, and/or
+  - Spring/Summer internship for 2026, and/or
   - Full Time Job starting Summer 2026/Dec 2026.  <br>
 
 💼 Potential Roles: 
