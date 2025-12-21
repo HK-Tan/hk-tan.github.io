@@ -6,8 +6,8 @@ main:
   - title: "Teaching and Resources"
     url: /teaching/
     
-#  - title: "CV"
-#    url: /cv/
+  - title: "CV/Resume"
+    url: /files/Resume_Dec25.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
