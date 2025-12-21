@@ -27,23 +27,9 @@ redirect_from:
 
 ## **Research Experiences & Interests:**
 
-📊 Statistics/Machine Learning:
-  -  Causal Machine Learning, Time-Series Models, and Mathematical Statistics.
-  -  LLMs and Multi-agent systems.
-
-<img src="/images/transverse.png"
-     alt="Transverse"
-     width="30"
-     height="30"
-     loading="lazy"/> Differential Topology:
-   - Genericity, Transversality, and Applications.
-
-♾️ Partial Differential Equations (PDEs):
-  -  PDEs on Graphs: Modelling, Optimizing, and Simulating Continuum Traffic Flow Networks.
-  -  Systems of Hyperbolic Conservation Laws: Mathematical & Numerical Analysis.
+{% include research-interests.html %}
 
 ✉️ I am always happy to discuss more on projects/publicatons that I have worked on. If you have any questions with regards to any of my publications, feel free to contact me via my email below!
-
 
 ## **CV:**
 
@@ -53,7 +39,7 @@ redirect_from:
      alt="WorldQuant"
      width="30"
      height="30"
-     loading="lazy"/>  I’m currently working as a Quantitative Research Intern at WorldQuant.
+     loading="lazy"/>  I’ve worked as a Quantitative Research Intern at WorldQuant in the fall quarter (2025) with their Intraday team.
 
 <img src="/images/amazon-icon.svg"
      alt="Amazon"
@@ -65,10 +51,10 @@ I think of myself as a "full stack mathematician" — I take projects end-to-end
 
 ✉️ I am currently looking for:
   - Spring/Summer internship for 2026, and/or
-  - Full Time Job starting Summer 2026/Dec 2026.  <br>
+  - Full Time role starting Summer 2026/Dec 2026.  <br>
 
 💼 Potential Roles: 
-  - Research/Applied/Data Scientist/Member of Technical Staff, or
+  - Research/Applied/Data Scientist/Member of Technical Staff, and/or
   - Research/Machine Learning/AI Engineer.
   
 Feel free to contact me via my email below!
