@@ -18,7 +18,6 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍👨‍👦‍👦 Pronouns: He/Him/His. <br>
     
 👨‍🎓 I'm a 5th year Ph.D. student in Mathematics at UCLA, advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). <br>
-💼 I'm currently doing an internship and am away from campus for the Fall quarter. 
 
 📚 I did my undergraduate studies at the National University of Singapore majoring/minoring in: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗 Primary Major: Applied Mathematics, <br>
