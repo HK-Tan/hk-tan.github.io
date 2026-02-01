@@ -32,7 +32,7 @@ redirect_from:
 
 ## **CV:**
 
-📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Dec25.pdf) (Updated Dec 2025.)
+📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Feb26.pdf) (Updated Feb 2026.)
 
 <img src="/images/worldquant-img.png"
      alt="WorldQuant"
