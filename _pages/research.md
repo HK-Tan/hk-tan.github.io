@@ -15,6 +15,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Mathematical Statistics, Statistical Learning, LLMs, Multi-agent Systems. <br>
 
 📋 **ORACLE-VARX: Double Machine Learning with Confounding-Adjusted Causal Lag Detection in Financial Time-Series** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (submitted for a conference) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Causal Machine Learning, Time Series Analysis. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 [GitHub Repo](https://github.com/HK-Tan/ORACLE-VARX). <br>
 
