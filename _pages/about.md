@@ -34,6 +34,12 @@ redirect_from:
 
 📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume.pdf) (Updated Feb 2026.)
 
+<img src="/images/sparai.jpg"
+     alt="SPAR"
+     width="28"
+     height="28"
+     loading="lazy"/> I'm current working as Research Fellow on the side with SPAR on an interpretability project.
+
 <img src="/images/worldquant-img.png"
      alt="WorldQuant"
      width="30"
@@ -45,8 +51,6 @@ redirect_from:
      width="28"
      height="28"
      loading="lazy"/>  I’ve worked as a Data Scientist Intern at Amazon this summer (2025) at Search Data Science and Economics.
-
-I think of myself as a "full stack mathematician" — I take projects end-to-end, from theory and modeling through implementation and simulation to production-scale systems!
 
 ✉️ I am currently looking for:
   - Spring/Summer internship for 2026, and/or

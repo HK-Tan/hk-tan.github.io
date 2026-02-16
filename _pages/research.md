@@ -11,11 +11,11 @@ author_profile: true
 
 ## **In Progress:**
 📋 **Beyond Statistical Changepoint Detection: LLM Discovery of Semantic Changes in Time-Series Data** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work done as an intern at Amazon <img src="/images/amazon-icon.svg"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/amazon-icon.svg"
      alt="Amazon"
      width="28"
      height="28"
-     loading="lazy"/>. <br>
+     loading="lazy"/> Work done as an intern at Amazon. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (submitted for a conference) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Mathematical Statistics, LLMs, Multi-agent Systems. <br>
 
@@ -29,11 +29,11 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🚦 [GitHub Repo](https://github.com/HK-Tan/Traffic-Simulation). <br>
 
 📋 **Automated Circuit Discovery for Real-time Internal Monitoring** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Working on it as a Research Fellow under [SPAR](https://sparai.org/) with [Sriram Balasubramanian](http://www.sriram.live/) <img src="/images/sparai.jpg"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/sparai.jpg"
      alt="SPAR"
      width="28"
      height="28"
-     loading="lazy"/>. <br>
+     loading="lazy"/> Working on it as a Research Fellow under [SPAR](https://sparai.org/) with [Sriram Balasubramanian](http://www.sriram.live/). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: LLMs, AI Alignment, Causal Inference, Mechanistic Interpretability. <br>
 
 📋 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
