@@ -53,7 +53,7 @@ redirect_from:
      loading="lazy"/>  I’ve worked as a Data Scientist Intern at Amazon this summer (2025) at Search Data Science and Economics.
 
 ✉️ I am currently looking for:
-  - Spring/Summer internship for 2026, and/or
+  - Summer internship for 2026, and/or
   - Full Time role starting Summer 2026/Dec 2026.  <br>
 
 💼 Potential Roles: 
