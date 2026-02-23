@@ -38,7 +38,7 @@ redirect_from:
      alt="SPAR"
      width="28"
      height="28"
-     loading="lazy"/> I'm current working as Research Fellow on the side with SPAR on an interpretability project.
+     loading="lazy"/> I'm current working as a Research Fellow on the side with SPAR on an interpretability project.
 
 <img src="/images/worldquant-img.png"
      alt="WorldQuant"
