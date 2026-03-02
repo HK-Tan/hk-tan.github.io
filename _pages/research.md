@@ -40,7 +40,7 @@ author_profile: true
      height="28"
      loading="lazy"/> Work done as an intern at Amazon, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Trilokya Akula, Akash Tonne, [Thomas Blake](https://tomblake2.weebly.com/). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accepted at [ICLR 2026 Time Series in the Age of Large Models Workshop (Poster)](https://tsalm-workshop.github.io/). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accepted at [ICLR 2026 Time Series in the Age of Large Models Workshop (Poster)](https://openreview.net/forum?id=MIAr6aBcUJ&referrer=%5Bthe%20profile%20of%20Hong%20Kiat%20Tan%5D(%2Fprofile%3Fid%3D~Hong_Kiat_Tan1)). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Mathematical Statistics, LLMs, Multi-agent Systems. <br>
 
 📜 **Generic Structural Stability for 2 x 2 Systems of Hyperbolic Conservation Laws** <br>
