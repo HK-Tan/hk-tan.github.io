@@ -10,16 +10,8 @@ author_profile: true
 {% include research-interests.html %}
 
 ## **In Progress:**
-📋 **Beyond Statistical Changepoint Detection: LLM Discovery of Semantic Changes in Time-Series Data** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/amazon-icon.svg"
-     alt="Amazon"
-     width="28"
-     height="28"
-     loading="lazy"/> Work done as an intern at Amazon. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (submitted for a conference) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Mathematical Statistics, LLMs, Multi-agent Systems. <br>
 
-📋 **ORACLE-VARX: Double Machine Learning with Confounding-Adjusted Causal Lag Detection in Financial Time-Series** <br>
+📋 **Causal Lag Structure Discovery in Confounded Time Series via Orthogonalized Adaptive Estimation** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (submitted for a conference) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Causal Machine Learning, Time Series Analysis. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 [GitHub Repo](https://github.com/HK-Tan/ORACLE-VARX). <br>
@@ -41,9 +33,20 @@ author_profile: true
 
 ## **Publications:**
 
+📜 **Beyond Statistical Changepoint Detection: Semantic Interpretation of Time Series via LLMs** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/amazon-icon.svg"
+     alt="Amazon"
+     width="28"
+     height="28"
+     loading="lazy"/> Work done as an intern at Amazon, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Trilokya Akula, Akash Tonne, [Thomas Blake](https://tomblake2.weebly.com/). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accepted at [ICLR 2026 Time Series in the Age of Large Models Workshop (Poster)](https://tsalm-workshop.github.io/). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Mathematical Statistics, LLMs, Multi-agent Systems. <br>
+
 📜 **Generic Structural Stability for 2 x 2 Systems of Hyperbolic Conservation Laws** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Andrea Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [arXiv:2502.08998 (2025),](https://arxiv.org/pdf/2502.08998), and accepted to SIAM Journal of Mathematical Analysis.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [arXiv:2502.08998 (2025),](https://arxiv.org/pdf/2502.08998). <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accepted to SIAM Journal of Mathematical Analysis.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tags: Analysis of PDEs, Differential Topology, Functional Analysis, Numerical Analysis, Fluid Dynamics. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📋 [Slides](https://maxtanhk.com/files/Slides/Generic_Structural_Stability_Slides.pdf).
 
