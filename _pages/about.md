@@ -17,7 +17,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍵 "Drinks/US" Name: Max. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍👨‍👦‍👦 Pronouns: He/Him/His. <br>
     
-👨‍🎓 I'm a 5th year Ph.D. student in Mathematics at UCLA, advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). <br>
+👨‍🎓 I'm a final year Ph.D. student in Mathematics at UCLA, advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). <br>
 
 📚 I did my undergraduate studies at the National University of Singapore majoring/minoring in: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗 Primary Major: Applied Mathematics, <br>
@@ -52,20 +52,24 @@ redirect_from:
      height="28"
      loading="lazy"/>  I’ve worked as a Data Scientist Intern at Amazon this summer (2025) at Search Data Science and Economics.
 
-✉️ I am currently looking for:
-  - Summer internship for 2026, and/or
-  - Full Time role starting Summer 2026/Dec 2026.  <br>
-
-💼 Potential Roles: 
-  - Research/Applied/Data Scientist/Member of Technical Staff, and/or
+💼 I am currently looking for a full-time early career/new grad role as a/an:
+  - Research/Applied/Data Scientist/Member of Technical Staff, and/or          
   - Research/Machine Learning/AI Engineer.
+
+🎓 Potential Technical Areas:
+  - AI Safety Research (Interpretability/Alignment)
+  - Causal Inference/Machine Learning
+  - Applied LLMs and ML Systems
+  - AI + Science (Math/Physics)
+  - Time Series Analysis & Forecasting/Applied Statistics
+  - Anything else (based on my experience, I adapt pretty quick to new fields if you are willing to give me a shot!)
   
 Feel free to contact me via my email below!
 
 ## **Teaching:**
 
 👨‍🏫 Currently Teaching:
-  -  (Winter 26.) N.A. 
+  -  (Spring 26.) N.A. 
 
 🧑‍💻 Teaching Experiences:
   -  You can access them [**here.**](teaching/)
