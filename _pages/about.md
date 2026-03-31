@@ -60,7 +60,7 @@ redirect_from:
   - AI Safety Research (Interpretability/Alignment)
   - Causal Inference/Machine Learning
   - Applied LLMs and ML Systems
-  - AI + Science (Math/Physics)
+  - AI + Science (Math/Physics/Others)
   - Time Series Analysis & Forecasting/Applied Statistics
   - Anything else (based on my experience, I adapt pretty quick to new fields if you are willing to give me a shot!)
   
