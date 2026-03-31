@@ -11,3 +11,12 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.tex
