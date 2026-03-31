@@ -37,7 +37,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Annie Lu](https://www.math.ucla.edu/people/grad/alu)<sup>\*†</sup>, <u>Hong Kiat Tan</u><sup>\*†</sup>, [Alex Xue](https://scholar.google.com/citations?user=4Utd71sAAAAJ&hl=en)<sup>\*†</sup>, [Alice Koniges](https://scholar.google.com/citations?hl=en&user=m8fLTt0AAAAJ&view_op=list_works&sortby=pubdate), and [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Submitted) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Optimization, PDEs on Graphs, Numerical Analysis, Mathematical Modelling. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🚦 [GitHub Repo](https://github.com/HK-Tan/Traffic-Simulation). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🚦 [GitHub Repo](https://github.com/alexxue99/Traffic-Simulation). <br>
 
 📜 **Beyond Statistical Changepoint Detection: Semantic Interpretation of Time Series via LLMs** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/amazon-icon.svg"
