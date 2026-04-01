@@ -46,13 +46,12 @@ author_profile: true
      height="28"
      loading="lazy"/> Work done as an intern at Amazon, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, Trilokya Akula, Akash Tonne, [Thomas Blake](https://tomblake2.weebly.com/). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accepted at [ICLR 2026 Time Series in the Age of Large Models Workshop (Poster)](https://openreview.net/forum?id=MIAr6aBcUJ&referrer=%5Bthe%20profile%20of%20Hong%20Kiat%20Tan%5D(%2Fprofile%3Fid%3D~Hong_Kiat_Tan1)). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*ICLR 2026 Time Series in the Age of Large Models Workshop* (Poster)](https://openreview.net/forum?id=MIAr6aBcUJ&referrer=%5Bthe%20profile%20of%20Hong%20Kiat%20Tan%5D(%2Fprofile%3Fid%3D~Hong_Kiat_Tan1)). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Mathematical Statistics, LLMs, Multi-agent Systems. <br>
 
 📜 **Generic Structural Stability for 2 x 2 Systems of Hyperbolic Conservation Laws** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SIAM J. Math. Analysis, 58(2) (2026).](https://epubs.siam.org/doi/10.1137/25M1733586) <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accepted to SIAM Journal of Mathematical Analysis.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*SIAM J. Math. Analysis*, 58(2) (2026).](https://epubs.siam.org/doi/10.1137/25M1733586) <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tags: Analysis of PDEs, Differential Topology, Functional Analysis, Numerical Analysis, Fluid Dynamics. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📋 [Slides](https://maxtanhk.com/files/Slides/Generic_Structural_Stability_Slides.pdf).
 
