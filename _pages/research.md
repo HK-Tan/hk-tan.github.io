@@ -35,7 +35,7 @@ author_profile: true
 
 📜 **Macroscopic Traffic Flow Network Modeling for Wildfire Evacuation: A Game-Theoretic Junction Optimization Approach with Application to the Lahaina Fire** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Annie Lu](https://www.math.ucla.edu/people/grad/alu)<sup>\*†</sup>, <u>Hong Kiat Tan</u><sup>\*†</sup>, [Alex Xue](https://scholar.google.com/citations?user=4Utd71sAAAAJ&hl=en)<sup>\*†</sup>, [Alice Koniges](https://scholar.google.com/citations?hl=en&user=m8fLTt0AAAAJ&view_op=list_works&sortby=pubdate), and [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Submitted) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [https://arxiv.org/abs/2603.29055](https://arxiv.org/abs/2603.29055). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Optimization, PDEs on Graphs, Numerical Analysis, Mathematical Modelling. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🚦 [GitHub Repo](https://github.com/alexxue99/Traffic-Simulation). <br>
 
@@ -51,7 +51,7 @@ author_profile: true
 
 📜 **Generic Structural Stability for 2 x 2 Systems of Hyperbolic Conservation Laws** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [arXiv:2502.08998 (2025),](https://arxiv.org/pdf/2502.08998). <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SIAM J. Math. Analysis, 58(2) (2026).](https://epubs.siam.org/doi/10.1137/25M1733586) <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accepted to SIAM Journal of Mathematical Analysis.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tags: Analysis of PDEs, Differential Topology, Functional Analysis, Numerical Analysis, Fluid Dynamics. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📋 [Slides](https://maxtanhk.com/files/Slides/Generic_Structural_Stability_Slides.pdf).
