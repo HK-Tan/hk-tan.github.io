@@ -20,3 +20,4 @@ package-lock.json
 *.synctex.gz
 *.out
 *.tex
+files/Resume-waymo.pdf
