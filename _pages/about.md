@@ -57,9 +57,8 @@ redirect_from:
   - Research/Machine Learning/AI Engineer.
 
 🎓 Potential Technical Areas:
-  - AI Safety Research (Interpretability/Alignment)
+  - LLMs (Applications, Agentic Systems, Interpretability), and ML Systems
   - Causal Inference/Machine Learning
-  - Applied LLMs and ML Systems
   - AI + Science (Math/Physics/Others)
   - Time Series Analysis & Forecasting/Applied Statistics
   - Anything else (based on my experience, I adapt pretty quick to new fields if you are willing to give me a shot!)
