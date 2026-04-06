@@ -57,7 +57,7 @@ redirect_from:
   - Research/Machine Learning/AI Engineer.
 
 🎓 Potential Technical Areas:
-  - LLMs (Applications, Agentic Systems, Interpretability), and ML Systems
+  - LLMs (Applications, Agentic Systems, Interpretability) and ML Systems
   - Causal Inference/Machine Learning
   - AI + Science (Math/Physics/Others)
   - Time Series Analysis & Forecasting/Applied Statistics
