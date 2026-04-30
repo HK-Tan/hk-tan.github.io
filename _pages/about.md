@@ -34,23 +34,29 @@ redirect_from:
 
 📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume.pdf) (Updated April 2026.)
 
+<img src="/images/amazon-icon.svg"
+     alt="Amazon"
+     width="28"
+     height="28"
+     loading="lazy"/>  I'm returning to Amazon as an Applied Scientist Intern in Summer 2026!
+
 <img src="/images/sparai.jpg"
      alt="SPAR"
      width="28"
      height="28"
-     loading="lazy"/> I'm current working as a Research Fellow on the side with SPAR on an interpretability project.
+     loading="lazy"/> I'm currently working as a Research Fellow with SPAR on an interpretability project.
 
 <img src="/images/worldquant-img.png"
      alt="WorldQuant"
      width="30"
      height="30"
-     loading="lazy"/>  I’ve worked as a Quantitative Research Intern at WorldQuant in the fall quarter (2025) with their Intraday team.
+     loading="lazy"/>  I worked as a Quantitative Research Intern at WorldQuant in Fall 2025 with their Intraday team.
 
 <img src="/images/amazon-icon.svg"
      alt="Amazon"
      width="28"
      height="28"
-     loading="lazy"/>  I’ve worked as a Data Scientist Intern at Amazon this summer (2025) at Search Data Science and Economics.
+     loading="lazy"/>  I worked as a Data Scientist Intern at Amazon in Summer 2025 at Search Data Science and Economics.
 
 💼 I am currently looking for a full-time early career/new grad role as a/an:
   - Research/Applied/Data Scientist/Member of Technical Staff, and/or          
