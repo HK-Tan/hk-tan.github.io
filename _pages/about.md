@@ -32,7 +32,7 @@ redirect_from:
 
 ## **CV:**
 
-📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume.pdf) (Updated April 2026.)
+📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume.pdf) (Updated May 2026.)
 
 <img src="/images/amazon-icon.svg"
      alt="Amazon"
