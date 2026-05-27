@@ -16,13 +16,6 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Causal Machine Learning, Time Series Analysis. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 [GitHub Repo](https://github.com/HK-Tan/ORACLE-VARX). <br>
 
-📋 **Automated Circuit Discovery for Real-time Internal Monitoring** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/sparai.jpg"
-     alt="SPAR"
-     width="28"
-     height="28"
-     loading="lazy"/> Working on it as a Research Fellow under [SPAR](https://sparai.org/) with [Sriram Balasubramanian](http://www.sriram.live/). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: LLMs, AI Alignment, Causal Inference, Mechanistic Interpretability. <br>
 
 📋 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Analysis of PDEs, Differential Topology, Functional Analysis, Numerical Analysis. <br>
@@ -32,6 +25,16 @@ author_profile: true
 \* := Equal Contribution <br>
 <sup>†</sup> := First Author(s) <br>
 <u>Underline</u> := Myself
+
+📜 **Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/sparai.jpg"
+     alt="SPAR"
+     width="28"
+     height="28"
+     loading="lazy"/> Work done as a Research Fellow under [SPAR](https://sparai.org/). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>\*†</sup>, Shariar Kabir<sup>\*†</sup>, Swastik Agrawal, Sai V R Chereddy, [Sriram Balasubramanian](http://www.sriram.live/). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Accepted at [*ICML 2026 Workshop on Compositional Learning: Safety, Interpretability, and Agents* (Poster)](https://compositional-learning.github.io/). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Interpretability, LLMs, Multi-agent Systems, Causal Inference. <br>
 
 📜 **Macroscopic Traffic Flow Network Modeling for Wildfire Evacuation: A Game-Theoretic Junction Optimization Approach with Application to the Lahaina Fire** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Annie Lu](https://www.math.ucla.edu/people/grad/alu)<sup>\*†</sup>, <u>Hong Kiat Tan</u><sup>\*†</sup>, [Alex Xue](https://scholar.google.com/citations?user=4Utd71sAAAAJ&hl=en)<sup>\*†</sup>, [Alice Koniges](https://scholar.google.com/citations?hl=en&user=m8fLTt0AAAAJ&view_op=list_works&sortby=pubdate), and [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>

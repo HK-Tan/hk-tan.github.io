@@ -63,7 +63,7 @@ redirect_from:
   - Research/Machine Learning/AI Engineer.
 
 🎓 Potential Technical Areas:
-  - LLMs (Applications, Agentic Systems, Interpretability) and ML Systems
+  - LLMs (Agentic Systems, Mechanistic Interpretability, AI Safety, Applications)
   - Causal Inference/Machine Learning
   - AI + Science (Math/Physics/Others)
   - Time Series Analysis & Forecasting/Applied Statistics
@@ -72,9 +72,6 @@ redirect_from:
 Feel free to contact me via my email below!
 
 ## **Teaching:**
-
-👨‍🏫 Currently Teaching:
-  -  (Spring 26.) N.A. 
 
 🧑‍💻 Teaching Experiences:
   -  You can access them [**here.**](teaching/)
