@@ -40,7 +40,7 @@ redirect_from:
      height="28"
      loading="lazy"/>  I'm currently working as an Applied Scientist Intern at Amazon (Summer 2026)! 
 
-☕ I am currently located in SF/Bay Area this summer, so feel free to reach out for a coffee chat! ☕
+☕ I am currently located in SF/Bay Area this summer, so feel free to reach out for a coffee chat!
 
 <img src="/images/sparai.jpg"
      alt="SPAR"
@@ -66,9 +66,8 @@ redirect_from:
 
 🎓 Potential Technical Areas:
   - LLMs (Agentic Systems, Mechanistic Interpretability, AI Safety, Applications)
-  - Causal Inference/Machine Learning
+  - Causal Inference/Machine Learning/Applied Statistics
   - AI + Science (Math/Physics/Others)
-  - Time Series Analysis & Forecasting/Applied Statistics
   - Anything else (based on my experience, I adapt pretty quickly to new fields if you are willing to give me a shot!)
   
 Feel free to contact me via my email below!

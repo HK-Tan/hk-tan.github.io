@@ -11,14 +11,15 @@ author_profile: true
 
 ## **In Progress:**
 
+📋 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Analysis of PDEs, Differential Topology, Functional Analysis, Numerical Analysis. <br>
+
 📋 **Causal Lag Structure Discovery in Confounded Time Series via Orthogonalized Adaptive Estimation** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (submitted for a conference) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Causal Machine Learning, Time Series Analysis. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 [GitHub Repo](https://github.com/HK-Tan/ORACLE-VARX). <br>
 
-
-📋 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Analysis of PDEs, Differential Topology, Functional Analysis, Numerical Analysis. <br>
+📋 Some other projects in mechanistic interpretability!
 
 ## **Publications:**
 
