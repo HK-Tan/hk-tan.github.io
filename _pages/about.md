@@ -46,7 +46,7 @@ redirect_from:
      alt="SPAR"
      width="28"
      height="28"
-     loading="lazy"/> I worked as a Research Fellow with SPAR on a mechanistic interpretability project, which I'm now extending on the side.
+     loading="lazy"/> I worked as a Research Fellow with SPAR on a mechanistic interpretability project.
 
 <img src="/images/worldquant-img.png"
      alt="WorldQuant"
