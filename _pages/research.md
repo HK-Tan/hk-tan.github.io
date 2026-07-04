@@ -33,7 +33,7 @@ author_profile: true
      width="28"
      height="28"
      loading="lazy"/> Work done as a Research Fellow under [SPAR](https://sparai.org/). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>\*†</sup>, Shariar Kabir<sup>\*†</sup>, Swastik Agrawal, Sai V R Chereddy, [Sriram Balasubramanian](http://www.sriram.live/). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>\*†</sup>, Shariar Kabir<sup>\*†</sup>, Swastik Agrawal, Sai V R Chereddy, Sriram Balasubramanian. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Accepted at [*ICML 2026 Workshop on Compositional Learning: Safety, Interpretability, and Agents* (Poster)](https://compositional-learning.github.io/) and [*ICML 2026 Mechanistic Interpretability Workshop*](https://mechinterpworkshop.com/). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Interpretability, LLMs, Multi-agent Systems, Causal Inference. <br>
 
