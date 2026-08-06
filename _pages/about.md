@@ -71,7 +71,7 @@ redirect_from:
   - Research/Machine Learning/AI Engineer.
 
 🎓 Potential Technical Areas:
-  - LLMs (Mechanistic Interpretability, AI Safety, Agentic Systems, Applications), and/or
+  - LLMs (Mechanistic Interpretability, AI Safety, Agentic Systems, Post-training, Applications), and/or
   - Causal Inference/Causal Machine Learning/Applied Statistics.
   
 Feel free to contact me via my email below!
