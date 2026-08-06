@@ -32,7 +32,7 @@ redirect_from:
 
 ## **CV:**
 
-📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume.pdf) (Updated July 2026.)
+📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume.pdf) (Updated Aug 2026.)
 
 <img src="/images/amazon-icon.svg"
      alt="Amazon"
@@ -46,7 +46,13 @@ redirect_from:
      alt="SPAR"
      width="28"
      height="28"
-     loading="lazy"/> I worked as a Research Fellow with SPAR on a mechanistic interpretability project.
+     loading="lazy"/> I'm mentoring for two SPAR projects with [David](https://ca.linkedin.com/in/david-williams-king) and [Linh](https://www.linkedin.com/in/lizliz2626/) in Fall 2026! Project details: [Interpretability Techniques for Scheming](https://sparai.org/projects/f26/rec8h4EE5tioWPoGA) and [Interpretability Techniques for Unspoken Collusion](https://sparai.org/projects/f26/recMpvlAH5wPRp4Mj).
+
+<img src="/images/sparai.jpg"
+     alt="SPAR"
+     width="28"
+     height="28"
+     loading="lazy"/> I worked as a Research Fellow with SPAR on a mechanistic interpretability project. (Spring 2026)
 
 <img src="/images/worldquant-img.png"
      alt="WorldQuant"
@@ -65,8 +71,8 @@ redirect_from:
   - Research/Machine Learning/AI Engineer.
 
 🎓 Potential Technical Areas:
-  - LLMs (Mechanistic Interpretability, AI Safety, Agentic Systems, Applications), and
-  - Causal Inference/Machine Learning/Applied Statistics.
+  - LLMs (Mechanistic Interpretability, AI Safety, Agentic Systems, Applications), and/or
+  - Causal Inference/Causal Machine Learning/Applied Statistics.
   
 Feel free to contact me via my email below!
 
