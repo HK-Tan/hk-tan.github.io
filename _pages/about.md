@@ -72,10 +72,6 @@ Project details:
 💼 I am currently looking for a full-time early career/new grad role as a/an:
   - Research/Applied/Data Scientist/Member of Technical Staff, and/or          
   - Research/Machine Learning/AI Engineer.
-
-🎓 Potential Technical Areas:
-  - LLMs (Mechanistic Interpretability, AI Safety, Agentic Systems, RL), and/or
-  - Causal Inference/Causal Machine Learning/Applied Statistics.
   
 Feel free to contact me via my email below!
 
