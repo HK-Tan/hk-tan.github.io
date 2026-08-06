@@ -12,7 +12,7 @@ author_profile: true
 ## **In Progress:**
 
 📋 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Analysis of PDEs, Differential Topology, Functional Analysis, Numerical Analysis. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Differential Topology, Analysis of PDEs, Functional Analysis. <br>
 
 📋 **Causal Lag Structure Discovery in Confounded Time Series via Orthogonalized Adaptive Estimation** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (submitted for a conference) <br>
