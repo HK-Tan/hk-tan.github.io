@@ -70,8 +70,9 @@ Project details:
      loading="lazy"/>  I worked as a Data Scientist Intern at Amazon on the Search Data Science and Economics team (Summer 2025).
 
 💼 I am currently looking for a full-time early career/new grad role as a/an:
-  - Research/Applied/Data Scientist/Member of Technical Staff, and/or          
-  - Research/Machine Learning/AI Engineer.
+  - Research/Applied/Data Scientist/Member of Technical Staff,
+  - Research/Machine Learning/AI Engineer, and/or
+  - Research Fellow.
   
 Feel free to contact me via my email below!
 
