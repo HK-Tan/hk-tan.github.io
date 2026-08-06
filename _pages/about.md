@@ -46,7 +46,10 @@ redirect_from:
      alt="SPAR"
      width="28"
      height="28"
-     loading="lazy"/> I'm mentoring for two SPAR projects with [David](https://ca.linkedin.com/in/david-williams-king) and [Linh](https://www.linkedin.com/in/lizliz2626/) in Fall 2026! Project details: [Interpretability Techniques for Scheming](https://sparai.org/projects/f26/rec8h4EE5tioWPoGA) and [Interpretability Techniques for Unspoken Collusion](https://sparai.org/projects/f26/recMpvlAH5wPRp4Mj).
+     loading="lazy"/> I'm mentoring for two SPAR projects with [David Williams-King](https://ca.linkedin.com/in/david-williams-king) and [Linh Le](https://www.linkedin.com/in/lizliz2626/) in Fall 2026! 
+Project details:
+- [Interpretability Techniques for Scheming](https://sparai.org/projects/f26/rec8h4EE5tioWPoGA) and 
+- [Interpretability Techniques for Unspoken Collusion](https://sparai.org/projects/f26/recMpvlAH5wPRp4Mj).
 
 <img src="/images/sparai.jpg"
      alt="SPAR"
