@@ -35,11 +35,11 @@ author_profile: true
      loading="lazy"/> Work done as a Research Fellow under [SPAR](https://sparai.org/). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>\*†</sup>, Shariar Kabir<sup>\*†</sup>, Swastik Agrawal, Sai V R Chereddy, Sriram Balasubramanian. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Accepted at [*ICML 2026 Workshop on Compositional Learning: Safety, Interpretability, and Agents* (Poster)](https://compositional-learning.github.io/) and [*ICML 2026 Mechanistic Interpretability Workshop*](https://mechinterpworkshop.com/). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Interpretability, LLMs, Multi-agent Systems, Causal Inference. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Interpretability, LLMs, Multi-agent Systems, Causality. <br>
 
 📜 **Macroscopic Traffic Flow Network Modeling for Wildfire Evacuation: A Game-Theoretic Junction Optimization Approach with Application to the Lahaina Fire** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Annie Lu](https://www.math.ucla.edu/people/grad/alu)<sup>\*†</sup>, <u>Hong Kiat Tan</u><sup>\*†</sup>, [Alex Xue](https://scholar.google.com/citations?user=4Utd71sAAAAJ&hl=en)<sup>\*†</sup>, [Alice Koniges](https://scholar.google.com/citations?hl=en&user=m8fLTt0AAAAJ&view_op=list_works&sortby=pubdate), and [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [https://arxiv.org/abs/2603.29055](https://arxiv.org/abs/2603.29055). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Accepted at [*Discrete and Continuous Dynamical Systems*](https://www.aimsciences.org/DCDS), with preprint [https://arxiv.org/abs/2603.29055](https://arxiv.org/abs/2603.29055). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Optimization, PDEs on Graphs, Numerical Analysis, Mathematical Modeling. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🚦 [GitHub Repo](https://github.com/alexxue99/Traffic-Simulation). <br>
 
