@@ -27,7 +27,7 @@ author_profile: true
 <sup>†</sup> := First Author(s) <br>
 <u>Underline</u> := Myself
 
-📜 **Reference-Grafting Matches Fine-Tuning at Eliciting Sandbagged Capabilities** <br>
+📜 **A Causal Model for Locating and Unlocking Sandbagging in Model Organisms** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, Linh Le, David Williams-King <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tags: Interpretability, Causality, AI Alignment, LLMs. <br>
@@ -35,7 +35,7 @@ author_profile: true
 📜 **Reference-Grafting Matches Fine-Tuning at Eliciting Sandbagged Capabilities** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linh Le<sup>†</sup>, <u>Hong Kiat Tan</u>, David Williams-King <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: AI Alignment, Interpretability, LLMs. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Interpretability, AI Alignment, LLMs. <br>
 
 📜 **Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/sparai.jpg"
