@@ -28,12 +28,12 @@ author_profile: true
 <u>Underline</u> := Myself
 
 📜 **A Causal Model for Locating and Unlocking Sandbagging in Model Organisms** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, Linh Le, David Williams-King <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tags: Interpretability, Causality, AI Alignment, LLMs. <br>
 
 📜 **Reference-Grafting Matches Fine-Tuning at Eliciting Sandbagged Capabilities** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linh Le<sup>†</sup>, <u>Hong Kiat Tan</u>, David Williams-King <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Linh Le](https://www.linkedin.com/in/lizliz2626/)<sup>†</sup>, <u>Hong Kiat Tan</u>, [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Interpretability, AI Alignment, LLMs. <br>
 
