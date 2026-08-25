@@ -11,6 +11,8 @@ author_profile: true
 
 ## **In Progress:**
 
+📋 Projects in mechanistic interpretability!
+
 📋 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Differential Topology, Analysis of PDEs, Functional Analysis. <br>
 
@@ -19,13 +21,18 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Causal Machine Learning, Time Series Analysis. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 [GitHub Repo](https://github.com/HK-Tan/ORACLE-VARX). <br>
 
-📋 Some other projects in mechanistic interpretability!
 
 ## **Publications:**
 
 \* := Equal Contribution <br>
 <sup>†</sup> := First Author(s) <br>
 <u>Underline</u> := Myself
+
+📜 **Activation Flow: Manufacturing Activations
+Along LLM Logits for Steering** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tags: Interpretability, Differential Topology, AI Alignment, LLMs. <br>
 
 📜 **A Causal Model for Locating and Unlocking Sandbagging in Model Organisms** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
