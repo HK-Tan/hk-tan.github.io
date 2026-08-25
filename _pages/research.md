@@ -28,8 +28,7 @@ author_profile: true
 <sup>†</sup> := First Author(s) <br>
 <u>Underline</u> := Myself
 
-📜 **Activation Flow: Manufacturing Activations
-Along LLM Logits for Steering** <br>
+📜 **Activation Flow: Manufacturing Activations for Steering** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tags: Interpretability, Differential Topology, AI Alignment, LLMs. <br>
