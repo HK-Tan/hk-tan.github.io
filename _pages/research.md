@@ -31,17 +31,17 @@ author_profile: true
 📜 **Activation Flow: Manufacturing Activations for Steering** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tags: Interpretability, Differential Topology, AI Alignment, LLMs. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tags: Mechanistic Interpretability, Differential Topology, Differential Geometry, ODEs, AI Alignment. <br>
 
 📜 **A Causal Model for Locating and Unlocking Sandbagging in Model Organisms** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tags: Interpretability, Causality, AI Alignment, LLMs. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tags: Mechanistic Interpretability, Causality, AI Alignment. <br>
 
 📜 **Reference-Grafting Matches Fine-Tuning at Eliciting Sandbagged Capabilities** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Linh Le](https://www.linkedin.com/in/lizliz2626/)<sup>†</sup>, <u>Hong Kiat Tan</u>, [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Interpretability, AI Alignment, LLMs. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Mechanistic Interpretability, AI Alignment. <br>
 
 📜 **Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/sparai.jpg"
@@ -51,11 +51,11 @@ author_profile: true
      loading="lazy"/> Work done as a Research Fellow under [SPAR](https://sparai.org/). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>\*†</sup>, Shariar Kabir<sup>\*†</sup>, Swastik Agrawal, Sai V R Chereddy, Sriram Balasubramanian. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Accepted at [*ICML 2026 Workshop on Compositional Learning: Safety, Interpretability, and Agents* (Poster)](https://compositional-learning.github.io/) and [*ICML 2026 Mechanistic Interpretability Workshop*](https://mechinterpworkshop.com/). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Interpretability, LLMs, Multi-agent Systems, Causality. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Mechanistic Interpretability, LLMs, Multi-agent Systems, Causality. <br>
 
 📜 **Macroscopic Traffic Flow Network Modeling for Wildfire Evacuation: A Game-Theoretic Junction Optimization Approach with Application to the Lahaina Fire** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Annie Lu](https://www.math.ucla.edu/people/grad/alu)<sup>\*†</sup>, <u>Hong Kiat Tan</u><sup>\*†</sup>, [Alex Xue](https://scholar.google.com/citations?user=4Utd71sAAAAJ&hl=en)<sup>\*†</sup>, [Alice Koniges](https://scholar.google.com/citations?hl=en&user=m8fLTt0AAAAJ&view_op=list_works&sortby=pubdate), and [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Accepted at [*Discrete and Continuous Dynamical Systems*](https://www.aimsciences.org/DCDS), with preprint [https://arxiv.org/abs/2603.29055](https://arxiv.org/abs/2603.29055). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Discrete and Continuous Dynamical Systems*, 59 (2027), 123–184.](https://www.aimsciences.org/article/doi/10.3934/dcds.2026162) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Optimization, PDEs on Graphs, Numerical Analysis, Mathematical Modeling. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🚦 [GitHub Repo](https://github.com/alexxue99/Traffic-Simulation). <br>
 

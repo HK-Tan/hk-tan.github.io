@@ -28,6 +28,8 @@ redirect_from:
 
 {% include research-interests.html %}
 
+📜 You can access my publications/papers [**here.**](research/)
+
 ✉️ I am always happy to discuss the projects/publications I have worked on in more detail. If you have any questions with regard to any of my publications, feel free to contact me via my email below!
 
 ## **CV:**
