@@ -35,12 +35,12 @@ author_profile: true
 
 📜 **A Causal Model for Locating and Unlocking Sandbagging in Model Organisms** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. [arXiv:2608.29461 (2026).](https://arxiv.org/abs/2608.29461) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tags: Mechanistic Interpretability, Causality, AI Alignment. <br>
 
 📜 **Reference-Grafting Matches Fine-Tuning at Eliciting Sandbagged Capabilities** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Linh Le](https://www.linkedin.com/in/lizliz2626/)<sup>†</sup>, <u>Hong Kiat Tan</u>, [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. [arXiv:2608.29458 (2026).](https://arxiv.org/abs/2608.29458) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Mechanistic Interpretability, AI Alignment. <br>
 
 📜 **Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries** <br>
