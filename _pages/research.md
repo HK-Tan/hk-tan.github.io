@@ -16,11 +16,6 @@ author_profile: true
 📋 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Differential Topology, Analysis of PDEs, Functional Analysis. <br>
 
-📋 **Causal Lag Structure Discovery in Confounded Time Series via Orthogonalized Adaptive Estimation** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (submitted for a conference) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Causal Machine Learning, Time Series Analysis. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 [GitHub Repo](https://github.com/HK-Tan/ORACLE-VARX). <br>
-
 
 ## **Publications:**
 
@@ -58,6 +53,13 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Discrete and Continuous Dynamical Systems*, 59 (2027), 123–184.](https://www.aimsciences.org/article/doi/10.3934/dcds.2026162) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Optimization, PDEs on Graphs, Numerical Analysis, Mathematical Modeling. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🚦 [GitHub Repo](https://github.com/alexxue99/Traffic-Simulation). <br>
+
+📜 **Causal Lag Structure Discovery in Confounded Time Series via Orthogonalized Adaptive Estimation** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, Isaac-Neil Zanoria, James Chen, Haoyang Lyu, Mihai Cucuringu. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submitted. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Causal Machine Learning, Time Series Analysis. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 [GitHub Repo](https://github.com/HK-Tan/ORACLE-VARX). <br>
+
 
 📜 **Beyond Statistical Changepoint Detection: Semantic Interpretation of Time Series via LLMs** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/amazon-icon.svg"
