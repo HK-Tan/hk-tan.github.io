@@ -21,3 +21,5 @@ package-lock.json
 *.out
 *.tex
 files/Resume-waymo.pdf
+# MATS-specific resume (not for the public site)
+files/Resume-MATS.*
