@@ -9,19 +9,16 @@ author_profile: true
 
 {% include research-interests.html %}
 
-## **In Progress:**
-
-📋 Projects in interpretability!
-
-📋 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Differential Topology, Analysis of PDEs, Functional Analysis. <br>
-
-
 ## **Publications:**
 
 \* := Equal Contribution <br>
 <sup>†</sup> := First Author(s) <br>
 <u>Underline</u> := Myself
+
+📜 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Differential Topology, Analysis of PDEs, Dyanamical Systems. <br>
 
 📜 **Activation Flow: Manufacturing Activations for Steering** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
