@@ -15,15 +15,16 @@ author_profile: true
 <sup>†</sup> := First Author(s) <br>
 <u>Underline</u> := Myself
 
-📜 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Differential Topology, Analysis of PDEs, Dynamical Systems. <br>
 
 📜 **Activation Flow: Manufacturing Activations for Steering** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tags: Interpretability, Differential Topology, Differential Geometry, ODEs, AI Alignment. <br>
+
+📜 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. [arXiv:2609.28714 (2026).](https://arxiv.org/abs/2609.28714) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tags: Differential Topology, Analysis of PDEs, Dynamical Systems. <br>
 
 📜 **A Causal Model for Locating and Unlocking Sandbagging in Model Organisms** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
