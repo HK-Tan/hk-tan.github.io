@@ -19,7 +19,7 @@ author_profile: true
 📜 **Activation Flow: Manufacturing Activations for Steering** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Submitted. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tags: Interpretability, Differential Topology, Differential Geometry, ODEs, AI Alignment. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tags: Interpretability, Differential Topology, ODEs, AI Alignment. <br>
 
 📜 **Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Hong Kiat Tan</u><sup>†</sup>, [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ). <br>
