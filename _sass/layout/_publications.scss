@@ -1,0 +1,71 @@
+/* ==========================================================================
+   PUBLICATION LIST (/research/)
+   ========================================================================== */
+
+.pub-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 1em 0 0.5em;
+  scroll-margin-top: 5em; /* clear the sticky masthead on /research/#topic links */
+
+  /* display: flex above would otherwise override the hidden attribute (no-JS fallback) */
+  &[hidden] {
+    display: none;
+  }
+}
+
+.pub-filter__chip {
+  padding: 0.3em 0.8em;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  line-height: 1.4;
+  color: var(--global-text-color);
+  background: transparent;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: $global-transition;
+
+  &:hover {
+    border-color: var(--global-link-color);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--global-link-color);
+    outline-offset: 2px;
+  }
+
+  &[aria-pressed="true"] {
+    color: #fff;
+    background: var(--global-link-color);
+    border-color: var(--global-link-color);
+  }
+}
+
+/* white on the dark theme's lighter link colour is too low-contrast */
+html[data-theme="dark"] .pub-filter__chip[aria-pressed="true"] {
+  color: #111;
+}
+
+.pub-filter__count {
+  margin-left: 0.2em;
+}
+
+.pub-filter__status {
+  margin: 0 0 1em;
+  font-size: $type-size-6;
+  color: var(--global-text-color);
+}
+
+.pub {
+  margin-bottom: 1.3em;
+
+  p {
+    margin: 0;
+  }
+}
+
+.pub__line {
+  padding-left: 1.6em;
+}

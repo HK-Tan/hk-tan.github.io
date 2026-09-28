@@ -1,0 +1,78 @@
+# Publications shown on /research/, newest first.
+# Fields: title, org (optional: icon, alt, text), authors, venue, tags, links (optional).
+# authors / venue / org.text / links are Markdown. Tags are the detailed topic
+# labels shown under each paper; _data/tag_groups.yml maps them to filter chips.
+
+- title: 'Activation Flow: Manufacturing Activations for Steering'
+  authors: '<u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/)'
+  venue: 'Submitted.'
+  tags: [Interpretability, Differential Topology & Geometry, ODEs, Numerical Analysis, AI Safety, LLMs]
+
+- title: 'Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws'
+  authors: '<u>Hong Kiat Tan</u><sup>†</sup>, [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ).'
+  venue: 'Submitted. [arXiv:2609.28714 (2026).](https://arxiv.org/abs/2609.28714)'
+  tags: [Differential Topology & Geometry, Analysis of PDEs, Dynamical Systems]
+
+- title: 'A Causal Model for Locating and Unlocking Sandbagging in Model Organisms'
+  authors: '<u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/)'
+  venue: 'Submitted. [arXiv:2608.29461 (2026).](https://arxiv.org/abs/2608.29461)'
+  tags: [Interpretability, Causality, AI Safety, LLMs]
+
+- title: 'Reference-Grafting Matches Fine-Tuning at Eliciting Sandbagged Capabilities'
+  authors: '[Linh Le](https://www.linkedin.com/in/lizliz2626/)<sup>†</sup>, <u>Hong Kiat Tan</u>, [David Williams-King](https://www.linkedin.com/in/david-williams-king/)'
+  venue: 'Submitted. [arXiv:2608.29458 (2026).](https://arxiv.org/abs/2608.29458)'
+  tags: [Interpretability, AI Safety, LLMs]
+
+- title: 'Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries'
+  org:
+    icon: /images/sparai.jpg
+    alt: SPAR
+    text: 'Work done as a Research Fellow under [SPAR](https://sparai.org/).'
+  authors: '<u>Hong Kiat Tan</u><sup>\*†</sup>, Shariar Kabir<sup>\*†</sup>, Swastik Agrawal, Sai V R Chereddy, Sriram Balasubramanian.'
+  venue: 'Accepted at [*ICML 2026 Workshop on Compositional Learning: Safety, Interpretability, and Agents* (Poster)](https://compositional-learning.github.io/) and [*ICML 2026 Mechanistic Interpretability Workshop*](https://mechinterpworkshop.com/).'
+  tags: [Interpretability, Multi-agent Systems, Causality, AI Safety, LLMs]
+
+- title: 'Macroscopic Traffic Flow Network Modeling for Wildfire Evacuation: A Game-Theoretic Junction Optimization Approach with Application to the Lahaina Fire'
+  authors: '[Annie Lu](https://www.math.ucla.edu/people/grad/alu)<sup>\*†</sup>, <u>Hong Kiat Tan</u><sup>\*†</sup>, [Alex Xue](https://scholar.google.com/citations?user=4Utd71sAAAAJ&hl=en)<sup>\*†</sup>, [Alice Koniges](https://scholar.google.com/citations?hl=en&user=m8fLTt0AAAAJ&view_op=list_works&sortby=pubdate), and [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ).'
+  venue: '[*Discrete and Continuous Dynamical Systems*, 59 (2027), 123–184.](https://www.aimsciences.org/article/doi/10.3934/dcds.2026162)'
+  tags: [Optimization, PDEs on Graphs, Numerical Analysis, Mathematical Modeling]
+  links:
+    - '🚦 [GitHub Repo](https://github.com/alexxue99/Traffic-Simulation).'
+
+- title: 'Causal Lag Structure Discovery in Confounded Time Series via Orthogonalized Adaptive Estimation'
+  authors: '<u>Hong Kiat Tan</u><sup>†</sup>, Isaac-Neil Zanoria, James Chen, Haoyang Lyu, Mihai Cucuringu.'
+  venue: 'Submitted.'
+  tags: [Causal Machine Learning, Time Series Analysis]
+  links:
+    - '📊 [GitHub Repo](https://github.com/HK-Tan/ORACLE-VARX).'
+
+- title: 'Beyond Statistical Changepoint Detection: Semantic Interpretation of Time Series via LLMs'
+  org:
+    icon: /images/amazon-icon.svg
+    alt: Amazon
+    text: 'Work done as an intern at Amazon,'
+  authors: '<u>Hong Kiat Tan</u><sup>†</sup>, Trilokya Akula, Akash Tonne, [Thomas Blake](https://tomblake2.weebly.com/).'
+  venue: '[*ICLR 2026 Time Series in the Age of Large Models Workshop* (Poster)](https://openreview.net/forum?id=MIAr6aBcUJ&referrer=%5Bthe%20profile%20of%20Hong%20Kiat%20Tan%5D(%2Fprofile%3Fid%3D~Hong_Kiat_Tan1)).'
+  tags: [Mathematical Statistics, Multi-agent Systems, LLMs]
+
+- title: 'Generic Structural Stability for 2 x 2 Systems of Hyperbolic Conservation Laws'
+  authors: '<u>Hong Kiat Tan</u><sup>†</sup>, [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ).'
+  venue: '[*SIAM J. Math. Analysis*, 58(2) (2026).](https://epubs.siam.org/doi/10.1137/25M1733586)'
+  tags: [Analysis of PDEs, Differential Topology & Geometry, Functional Analysis, Numerical Analysis, Fluid Dynamics]
+  links:
+    - '📋 [Slides](https://maxtanhk.com/files/Slides/Generic_Structural_Stability_Slides.pdf).'
+
+- title: 'Weak Cosmic Censorship Conjecture for the Spherically Symmetric Einstein-Maxwell-Charged Scalar Field System'
+  authors: '<u>Hong Kiat Tan</u><sup>\*†</sup>, [Xinliang An](https://scholar.google.com/citations?hl=en&user=RNWt0QUAAAAJ)<sup>\*†</sup>.'
+  venue: '[arXiv:2402.16250 (2024).](https://arxiv.org/abs/2402.16250)'
+  tags: [Analysis of PDEs, Differential Geometry, General Relativity]
+
+- title: 'Regularization of Complex Langevin Method'
+  authors: '[Zhenning Cai](https://blog.nus.edu.sg/matcz/)<sup>\*†</sup>, [Yang Kuang](https://scholar.google.com/citations?user=kA4bMCUAAAAJ&hl=en)<sup>\*†</sup>, <u>Hong Kiat Tan</u><sup>\*†</sup>.'
+  venue: '[*Phys. Rev. D* 105, 014508 (2022).](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.014508)'
+  tags: [Numerical Analysis, Statistics, Quantum Mechanics]
+
+- title: 'Hierarchical Bayesian Thermonuclear Rate for 7Be(n,p)7Li Big Bang Nucleosynthesis Reactions'
+  authors: '[Rafael S de Souza](https://www.rafaelsdesouza.com/)<sup>†</sup>, <u>Hong Kiat Tan</u>, Alain Coc, and [Christian Iliadis](https://iliadis.web.unc.edu/).'
+  venue: '[*The Astrophysical Journal* 894, 132 (2020).](https://iopscience.iop.org/article/10.3847/1538-4357/ab88aa?fbclid=IwAR3qH-4IICuVKeaaXZv3hYx7ZWPFDk4syzfu7hV6oZpES-5fcJTH1xhfym0)'
+  tags: [Bayesian Statistics, Astrophysics]
