@@ -13,6 +13,22 @@
   &[hidden] {
     display: none;
   }
+
+  /* rows from _data/tag_groups.yml apply on wider screens only */
+  @include breakpoint($medium) {
+    flex-direction: column;
+  }
+}
+
+/* on phones the rows dissolve and all chips wrap as one group */
+.pub-filter__row {
+  display: contents;
+
+  @include breakpoint($medium) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+  }
 }
 
 .pub-filter__chip {
@@ -23,7 +39,7 @@
   color: var(--global-text-color);
   background: transparent;
   border: 1px solid var(--global-border-color);
-  border-radius: 999px;
+  border-radius: $border-radius;
   cursor: pointer;
   transition: $global-transition;
 

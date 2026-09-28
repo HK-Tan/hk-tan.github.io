@@ -4,9 +4,16 @@
 {%- endcomment -%}
 {%- assign groups = site.data.tag_groups -%}
 <div class="pub-filter" role="group" aria-label="Filter publications by topic" hidden>
+<div class="pub-filter__row">
 <button type="button" class="pub-filter__chip" data-chip="all" aria-pressed="true">All <span class="pub-filter__count"></span></button>
-{%- for chip in groups.chips %}
+</div>
+{%- assign rows = groups.chips | group_by: "row" -%}
+{%- for row in rows %}
+<div class="pub-filter__row">
+{%- for chip in row.items %}
 <button type="button" class="pub-filter__chip" data-chip="{{ chip.id }}" aria-pressed="false"{% if chip.tip %} title="{{ chip.tip }}"{% endif %}>{{ chip.label }} <span class="pub-filter__count"></span></button>
+{%- endfor %}
+</div>
 {%- endfor %}
 </div>
 <p class="pub-filter__status" aria-live="polite"></p>

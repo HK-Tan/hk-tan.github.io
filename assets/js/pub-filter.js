@@ -1,7 +1,7 @@
 // Topic filter for the publication list on /research/.
 // Each .pub has data-chips="id id ..."; each chip button has data-chip="id".
 // The selected chip is kept in the URL hash so a filtered view can be linked,
-// e.g. /research/#ai-safety.
+// e.g. /research/#physics.
 (function () {
   var bar = document.querySelector(".pub-filter");
   if (!bar) return;

@@ -1,39 +1,45 @@
-# Filter chips on /research/, in display order.
-# id: used in the URL, e.g. /research/#ai-safety
+# Filter chips on /research/. "All" always sits alone on the first row.
+# row: which row the chip goes on (2, 3, ...); chips keep this file's order within a row.
+# id: used in the URL, e.g. /research/#interp-and-ai-safety
 # tip: shown on hover
 chips:
-  - id: interpretability
-    label: Interpretability
-    tip: Mechanistic interpretability of LLMs
-  - id: ai-safety
-    label: AI Safety
-    tip: Alignment, sandbagging, steering
+  - id: interp-and-ai-safety
+    row: 2
+    label: Interpretability & AI Safety
+    tip: Mechanistic interpretability, alignment, sandbagging, steering
   - id: llms-agents
+    row: 2
     label: LLMs & Agents
     tip: Large language models and multi-agent systems
+  - id: geometry
+    row: 2
+    label: Differential Geometry & Topology
+    tip: Differential topology and differential geometry
   - id: causality
+    row: 2
     label: Causality
     tip: Causal inference and causal machine learning
+  - id: analysis
+    row: 3
+    label: Analysis & PDEs
+    tip: PDEs, ODEs, functional analysis and dynamical systems
   - id: statistics
+    row: 3
     label: Statistics
     tip: Mathematical, Bayesian and time-series statistics
-  - id: analysis
-    label: Analysis & PDEs
-    tip: PDEs, functional analysis, ODEs and dynamical systems
-  - id: geometry
-    label: Geometry & Topology
-    tip: Differential topology and differential geometry
   - id: numerics
+    row: 3
     label: Numerical Analysis
   - id: physics
+    row: 3
     label: Physics
     tip: General relativity, quantum mechanics, astrophysics, fluids
 
 # Detailed tag (as written under a paper in publications.yml) -> chip id.
 # A detailed tag not listed here is still shown under the paper, it just has no chip.
 tag_to_chip:
-  Interpretability: interpretability
-  AI Safety: ai-safety
+  Interpretability: interp-and-ai-safety
+  AI Safety: interp-and-ai-safety
   LLMs: llms-agents
   Multi-agent Systems: llms-agents
   Causality: causality
