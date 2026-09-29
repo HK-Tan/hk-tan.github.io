@@ -38,7 +38,7 @@
   line-height: 1.4;
   color: var(--global-text-color);
   background: transparent;
-  border: 1px solid var(--global-border-color);
+  border: 1px solid var(--pub-chip-border-color, #000);
   border-radius: $border-radius;
   cursor: pointer;
   transition: $global-transition;
@@ -57,6 +57,11 @@
     background: var(--global-link-color);
     border-color: var(--global-link-color);
   }
+}
+
+/* chip borders contrast with the page: black on light, white on dark */
+html[data-theme="dark"] {
+  --pub-chip-border-color: #fff;
 }
 
 /* white on the dark theme's lighter link colour is too low-contrast */
