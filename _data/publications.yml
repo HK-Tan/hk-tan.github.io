@@ -6,12 +6,12 @@
 - title: 'Activation Flow: Manufacturing Activations for Steering'
   authors: '<u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/)'
   venue: 'Submitted. [arXiv:2609.32530 (2026).](https://arxiv.org/abs/2609.32530)'
-  tags: [Interpretability, Differential Topology & Geometry, ODEs, Numerical Analysis, AI Safety, LLMs]
+  tags: [Interpretability, Differential Geometry & Topology, ODEs, Numerical Analysis, AI Safety, LLMs]
 
 - title: 'Generic Structural Stability for n x n Systems of Hyperbolic Conservation Laws'
   authors: '<u>Hong Kiat Tan</u><sup>†</sup>, [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ).'
   venue: 'Submitted. [arXiv:2609.28714 (2026).](https://arxiv.org/abs/2609.28714)'
-  tags: [Differential Topology & Geometry, Analysis of PDEs, Dynamical Systems]
+  tags: [Differential Geometry & Topology, Analysis of PDEs, Dynamical Systems]
 
 - title: 'A Causal Model for Locating and Unlocking Sandbagging in Model Organisms'
   authors: '<u>Hong Kiat Tan</u><sup>†</sup>, [Linh Le](https://www.linkedin.com/in/lizliz2626/), [David Williams-King](https://www.linkedin.com/in/david-williams-king/)'
@@ -58,7 +58,7 @@
 - title: 'Generic Structural Stability for 2 x 2 Systems of Hyperbolic Conservation Laws'
   authors: '<u>Hong Kiat Tan</u><sup>†</sup>, [Andrea L. Bertozzi](https://scholar.google.com/citations?user=VJPRn1oAAAAJ).'
   venue: '[*SIAM J. Math. Analysis*, 58(2) (2026).](https://epubs.siam.org/doi/10.1137/25M1733586)'
-  tags: [Analysis of PDEs, Differential Topology & Geometry, Functional Analysis, Numerical Analysis, Fluid Dynamics]
+  tags: [Analysis of PDEs, Differential Geometry & Topology, Functional Analysis, Numerical Analysis, Fluid Dynamics]
   links:
     - '📋 [Slides](https://maxtanhk.com/files/Slides/Generic_Structural_Stability_Slides.pdf).'
 
