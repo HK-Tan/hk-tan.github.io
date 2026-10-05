@@ -7,7 +7,11 @@ main:
     url: /teaching/
     
   - title: "CV/Resume"
-    url: /files/Resume.pdf
+    children:
+      - title: "General Resume"
+        url: /files/Resume.pdf
+      - title: "Resume for AI Safety Roles"
+        url: /files/Resume-AIS.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
