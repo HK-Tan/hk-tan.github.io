@@ -51,7 +51,7 @@ Project details:
      alt="Amazon"
      width="28"
      height="28"
-     loading="lazy"/>  I worked as an Applied Scientist Intern at Amazon (Summer 2026).
+     loading="lazy"/>  I worked as an Applied Scientist Intern at Amazon Search (Summer 2026).
 
 <img src="/images/sparai.jpg"
      alt="SPAR"
