@@ -66,12 +66,27 @@
   }
 }
 /* Dropdown menu item (e.g. CV/Resume -> General / AI Safety).
+   Closed by default; opens on hover (mouse devices) or when tapped/clicked
+   (the .open class is toggled in _includes/scripts.html).
    Scoped under .greedy-nav to beat the theme's .visible-links li rules. */
 .greedy-nav .masthead__menu-item--dropdown {
   position: relative;
 
   > a {
     cursor: pointer;
+    user-select: none;
+
+    &:focus:not(:focus-visible) {
+      outline: none;
+    }
+
+    i {
+      transition: transform 0.2s;
+    }
+  }
+
+  &.open > a i {
+    transform: rotate(180deg);
   }
 
   .masthead__submenu {
@@ -102,21 +117,34 @@
       }
 
       &:hover {
-        background: var(--global-border-color);
+        background: none;
+        color: var(--global-masthead-link-color-hover);
       }
     }
   }
 
-  &:hover .masthead__submenu,
-  &:focus-within .masthead__submenu {
+  &.open .masthead__submenu {
     display: block;
   }
 }
 
-/* When the item overflows into the mobile "hamburger" list, show the
-   sub-links inline and indented instead of as a hover popup */
+@media (hover: hover) {
+  .greedy-nav .visible-links .masthead__menu-item--dropdown:hover .masthead__submenu {
+    display: block;
+  }
+}
+
+/* Inside the mobile overflow (hamburger) list: still collapsed until tapped,
+   but the sub-links open inline and indented rather than as a floating box.
+   The theme's hover there sets text and background to the same colour in dark
+   mode, and on touch screens a tapped item stays "hovered", so use a plain
+   text-colour hover instead */
+.greedy-nav .hidden-links .masthead__menu-item--dropdown > a:hover {
+  background: none;
+  color: var(--global-masthead-link-color-hover);
+}
+
 .greedy-nav .hidden-links .masthead__menu-item--dropdown .masthead__submenu {
-  display: block;
   position: static;
   padding: 0;
   border: none;

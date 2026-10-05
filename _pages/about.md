@@ -34,13 +34,7 @@ redirect_from:
 
 ## **CV:**
 
-📃 You can access my resume/CV [**here**](https://maxtanhk.com/files/Resume-AIS.pdf) (AI Safety) and [**here**](https://maxtanhk.com/files/Resume.pdf) (General). (Updated Oct 2026.)
-
-<img src="/images/amazon-icon.svg"
-     alt="Amazon"
-     width="28"
-     height="28"
-     loading="lazy"/>  I'm currently working as an Applied Scientist Intern at Amazon (Summer 2026)! 
+📃 You can access my resume/CV [**here**](https://maxtanhk.com/files/Resume.pdf) (General) and [**here**](https://maxtanhk.com/files/Resume-AIS.pdf) (AI Safety). (Updated Oct 2026.)
 
 ☕ I am currently located in SF/Bay Area this summer, so feel free to reach out for a coffee chat!
 
@@ -52,6 +46,12 @@ redirect_from:
 Project details: 
 - [Interpretability Techniques for Scheming](https://sparai.org/projects/f26/rec8h4EE5tioWPoGA) and 
 - [Interpretability Techniques for Unspoken Collusion](https://sparai.org/projects/f26/recMpvlAH5wPRp4Mj).
+
+<img src="/images/amazon-icon.svg"
+     alt="Amazon"
+     width="28"
+     height="28"
+     loading="lazy"/>  I worked as an Applied Scientist Intern at Amazon (Summer 2026).
 
 <img src="/images/sparai.jpg"
      alt="SPAR"

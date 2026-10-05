@@ -1,3 +1,27 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
+<script>
+  // Nav dropdowns (e.g. CV/Resume): open/close on click or tap, close on outside click or Esc
+  document.addEventListener('click', function (e) {
+    var toggle = e.target.closest('.masthead__menu-item--dropdown > a');
+    document.querySelectorAll('.masthead__menu-item--dropdown.open').forEach(function (item) {
+      if (!toggle || item !== toggle.parentElement) item.classList.remove('open');
+    });
+    if (toggle) {
+      e.preventDefault();
+      toggle.parentElement.classList.toggle('open');
+    }
+  });
+  document.addEventListener('keydown', function (e) {
+    var toggle = e.target.closest && e.target.closest('.masthead__menu-item--dropdown > a');
+    if (toggle && (e.key === 'Enter' || e.key === ' ')) {
+      e.preventDefault();
+      toggle.parentElement.classList.toggle('open');
+    } else if (e.key === 'Escape') {
+      document.querySelectorAll('.masthead__menu-item--dropdown.open').forEach(function (item) {
+        item.classList.remove('open');
+      });
+    }
+  });
+</script>
 
 {% include analytics.html %}
