@@ -23,3 +23,4 @@ package-lock.json
 files/Resume-waymo.pdf
 # MATS-specific resume (not for the public site)
 files/Resume-MATS.*
+.DS_Store
