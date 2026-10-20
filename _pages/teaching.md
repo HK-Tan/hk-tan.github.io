@@ -5,10 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## 👨‍🏫 **Currently Teaching:**
-
-📖 (Spring 2026) N/A.
-
 ## 🧑‍💻 **Teaching Experiences:** 
 
 📄 To access a consolidated folder containing all my teaching evaluations, click [**here**](https://github.com/HK-Tan/hk-tan.github.io/tree/master/files/Teaching_Evaluations). <br>
@@ -79,4 +75,3 @@ author_profile: true
 📖 (AY18/19 Sem 2) Teaching Assistant for CS1010S Programming Methodology. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: 5.0/5.0, Average Score over all Components: 4.8/5.0, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 [Teaching Evaluation](https://maxtanhk.com/files/Teaching_Evaluations/1010S_1819_S2.pdf). <br>
-

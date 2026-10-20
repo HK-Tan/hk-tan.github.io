@@ -36,7 +36,7 @@ redirect_from:
 
 📃 You can access my resume/CV [**here**](https://maxtanhk.com/files/Resume.pdf) (General) and [**here**](https://maxtanhk.com/files/Resume-AIS.pdf) (AI Safety). (Updated Oct 2026.)
 
-☕ I am currently located in SF/Bay Area this summer, so feel free to reach out for a coffee chat!
+☕ I am currently located in SF/Bay Area, so feel free to reach out for a coffee chat!
 
 <img src="/images/sparai.jpg"
      alt="SPAR"
