@@ -38,7 +38,7 @@ redirect_from:
 
 ☕ I am currently located in SF/Bay Area, so feel free to reach out for a coffee chat!
 
-<img src="/images/sparai.jpg"
+<img src="/images/spar.svg"
      alt="SPAR"
      width="28"
      height="28"
@@ -59,7 +59,7 @@ Project details:
      height="28"
      loading="lazy"/>  I worked as an Applied Scientist Intern at Amazon Search (Summer 2026).
 
-<img src="/images/sparai.jpg"
+<img src="/images/spar.svg"
      alt="SPAR"
      width="28"
      height="28"

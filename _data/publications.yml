@@ -25,7 +25,7 @@
 
 - title: 'Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries'
   org:
-    icon: /images/sparai.jpg
+    icon: /images/spar.svg
     alt: SPAR
     text: 'Work done as a Research Fellow under [SPAR](https://sparai.org/).'
   authors: '<u>Hong Kiat Tan</u><sup>\*†</sup>, Shariar Kabir<sup>\*†</sup>, Swastik Agrawal, Sai V R Chereddy, Sriram Balasubramanian.'
