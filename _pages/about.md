@@ -47,6 +47,12 @@ Project details:
 - [Interpretability Techniques for Scheming](https://sparai.org/projects/f26/rec8h4EE5tioWPoGA) and 
 - [Interpretability Techniques for Unspoken Collusion](https://sparai.org/projects/f26/recMpvlAH5wPRp4Mj).
 
+<img src="/images/iliad.png"
+     alt="Iliad"
+     width="28"
+     height="28"
+     loading="lazy"/> I participated in the [Iliad Intensive](https://www.iliad.ac/intensive) (October 2026).
+
 <img src="/images/amazon-icon.svg"
      alt="Amazon"
      width="28"
