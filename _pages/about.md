@@ -45,7 +45,7 @@ redirect_from:
      loading="lazy"/> I'm mentoring two SPAR projects with [David Williams-King](https://ca.linkedin.com/in/david-williams-king) and [Linh Le](https://www.linkedin.com/in/lizliz2626/) in Fall 2026! 
 Project details: 
 - [Model Organisms and Interpretability for Scheming](https://sparai.org/projects/f26/rec8h4EE5tioWPoGA) and 
-- [Modeling and Detecting Unspoken Collusion (Schelling-Point, Tacit, and Acausal)](https://sparai.org/projects/f26/recMpvlAH5wPRp4Mj).
+- [Modeling and Detecting Unspoken Collusion (Schelling Point, Tacit, and Acausal)](https://sparai.org/projects/f26/recMpvlAH5wPRp4Mj).
 
 <img src="/images/iliad.png"
      alt="Iliad"
