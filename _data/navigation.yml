@@ -8,10 +8,10 @@ main:
     
   - title: "CV/Resume"
     children:
-      - title: "General Resume"
-        url: /files/Resume.pdf
       - title: "Resume for AI Safety Roles"
         url: /files/Resume-AIS.pdf
+      - title: "General Resume"
+        url: /files/Resume.pdf
     
 #  - title: "Guide"
 #    url: /markdown/

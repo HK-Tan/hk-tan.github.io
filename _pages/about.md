@@ -34,7 +34,7 @@ redirect_from:
 
 ## **CV:**
 
-📃 You can access my resume/CV [**here**](https://maxtanhk.com/files/Resume.pdf) (General) and [**here**](https://maxtanhk.com/files/Resume-AIS.pdf) (AI Safety). (Updated Oct 2026.)
+📃 You can access my resume/CV [**here**](https://maxtanhk.com/files/Resume-AIS.pdf) (AI Safety) and [**here**](https://maxtanhk.com/files/Resume.pdf) (General). (Updated Oct 2026.)
 
 ☕ I am currently located in SF/Bay Area, so feel free to reach out for a coffee chat!
 
